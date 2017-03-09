@@ -26,7 +26,6 @@ plust notes about default settings, etc):
 
 ## Example Usage
 
-    ```
 	#import "ViewController.h"
 
 	@interface ViewController ()
@@ -90,6 +89,6 @@ plust notes about default settings, etc):
         self.activePopup = nil;  
     }
 
-```
+
 
 
